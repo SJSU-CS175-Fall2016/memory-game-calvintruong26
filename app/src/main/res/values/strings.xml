@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="landing_header">Welcome to the Memory Game</string>
+    <string name="playBtn">PLAY</string>
+    <string name="rulesBtn">RULES</string>
+    <string name="rules_header">Rules of the Game</string>
+    <string name="rule1">1. The user is shown 20 tiles. Hidden below these tiles are 10 random images, each repeated twice.</string>
+    <string name="rule2">2. The user can touch any two tiles. Touching on a tile will show the image.</string>
+    <string name="rule3">3. If the two tiles match, the two tiles disappear and the user gets a point.</string>
+    <string name="rule4">4. If the two tiles do not match, both images go back to hidden tiles. </string>
+    <string name="rule5">5. Game state is automatically saved when moving between Home screen and Game screen.</string>
+    <string name="pts">Points</string>
+</resources>
