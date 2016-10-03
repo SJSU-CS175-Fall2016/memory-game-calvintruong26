@@ -10,4 +10,12 @@
     <string name="rule4">4. If the two tiles do not match, both images go back to hidden tiles. </string>
     <string name="rule5">5. Game state is automatically saved when moving between Home screen and Game screen.</string>
     <string name="pts">Points</string>
+
+    <string name="options">Options</string>
+    <string name="new_game">New Game</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="rules">Rules</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
